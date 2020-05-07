@@ -16,3 +16,4 @@ This Vagrantfile make an hybrid lab on virtualbox with Linux, Mac and Windows Ma
 * Your Host machine should have NFS Server installed
   * Ubuntu 
     * `sudo apt-get update ; sudo apt-get install nfs-server nfs-common -y`
+* On MacOSx step to configure `nfs-server`, you'll be asked for `sudo` password 
