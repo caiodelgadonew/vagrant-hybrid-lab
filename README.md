@@ -13,3 +13,6 @@ This Vagrantfile make an hybrid lab on virtualbox with Linux, Mac and Windows Ma
     * `/etc/hosts`
   * Windows
     * `C:\Windows\system32\drivers\etc\hosts`
+* Your Host machine should have NFS Server installed
+  * Ubuntu 
+    * `sudo apt-get update ; sudo apt-get install nfs-server nfs-common -y`
